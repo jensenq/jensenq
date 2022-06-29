@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quentin Jensen
 - 👀 My interests include HPC, computational biology and machine learning.
-- 🌱 I'm a 2nd year grad student at WWU and shifting into computational biology research.
-- 📫 jensenq@wwu.edu
+- 🌱 I recently graduated from Western Washington University and I'm excited to work on real-world problems.
+- 📫 quentinjensen@proton.me
 
 <!---
 jensenq/jensenq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
