@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quentin Jensen
-- 👀 My interests include HPC, computational biology and machine learning.
+- 👀 My interests include HPC, computational biology, deep learning and CS education
 - 🌱 I recently graduated from Western Washington University and have started as a computer science instructor there!
 - 📫 quentinjensen@proton.me
 
