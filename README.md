@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quentin Jensen, MS Computer Science, looking for work in Portland OR!
-- 👀 My interests include high performance computing, computational biology, deep learning and CS education.
+- 👀 My interests include high performance computing, bioinformatics, deep learning and CS education.
 - 🌱 Graduate of Western Washington University with three papers published in IEEE.
 - 📫 quentinjensen@proton.me
 
